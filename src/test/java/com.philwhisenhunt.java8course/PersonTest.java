@@ -6,6 +6,6 @@ public class PersonTest {
     @Test
     public void shouldReturnHelloWorld() {
         Person phil = new Person();
-        assertEquals("Hello World", marcus.helloWorld() ) 
+        assertEquals("Hello World", marcus.helloWorld() ); 
     }
 }
